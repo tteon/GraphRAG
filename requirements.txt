@@ -1,0 +1,15 @@
+transformers
+langchain
+langchain-openai
+langchain-community
+langsmith
+openai
+python-dotenv
+tiktoken
+streamlit
+neo4j
+py2neo
+graphdatascience
+PyPDF2
+beautifulsoup4
+jupyter
